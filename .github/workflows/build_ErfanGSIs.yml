@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.8.29/miui_MI6_9.8.29_442fd7bc9e_9.0.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/gsi/MIUI/MIUI-Aonly-10-20190904-ErfanGSI.img.7z
   ROM_NAME: MIUI
   BUILD_TYPE: aonly
   TZ: Asia/Shanghai
