@@ -16,6 +16,7 @@ on:
 env:
   ROM_URL: https://bigota.d.miui.com/9.8.29/miui_MI6_9.8.29_442fd7bc9e_9.0.zip
   ROM_NAME: MIUI
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
